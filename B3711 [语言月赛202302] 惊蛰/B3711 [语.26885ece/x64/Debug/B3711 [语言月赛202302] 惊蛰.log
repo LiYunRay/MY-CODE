@@ -1,0 +1,17 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(7,10): warning C4477: “scanf_s”: 格式字符串“%llu”需要类型“unsigned __int64 *”的参数，但可变参数 1 拥有了类型“int *”
+      C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(7,10):
+      请考虑在格式字符串中使用“%u”
+      C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(7,10):
+      请考虑在格式字符串中使用“%I32u”
+  
+C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(11,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“unsigned __int64 *”
+      C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(11,11):
+      请考虑在格式字符串中使用“%lld”
+      C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(11,11):
+      请考虑在格式字符串中使用“%Id”
+      C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(11,11):
+      请考虑在格式字符串中使用“%I64d”
+  
+C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\FileName.cpp(33,13): warning C4244: “=”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  B3711 [语言月赛202302] 惊蛰.vcxproj -> C:\Users\bjhwl\source\repos\B3711 [语言月赛202302] 惊蛰\x64\Debug\B3711 [语言月赛202302] 惊蛰.exe

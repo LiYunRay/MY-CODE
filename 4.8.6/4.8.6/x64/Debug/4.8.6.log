@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\4.8.6\FileName.cpp(8,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\4.8.6\FileName.cpp(9,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  4.8.6.vcxproj -> C:\Users\bjhwl\source\repos\4.8.6\x64\Debug\4.8.6.exe

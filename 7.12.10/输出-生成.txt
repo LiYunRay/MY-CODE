@@ -1,0 +1,9 @@
+﻿生成开始于 23:39...
+1>------ 已启动生成: 项目: 7.12.10, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\7.12.10\FileName.cpp(18,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>C:\Users\bjhwl\source\repos\7.12.10\FileName.cpp(21,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>7.12.10.vcxproj -> C:\Users\bjhwl\source\repos\7.12.10\x64\Debug\7.12.10.exe
+1>已完成生成项目“7.12.10.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 23:39 完成，耗时 00.668 秒 ==========

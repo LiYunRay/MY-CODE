@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\T631923 [IAMOI R4] 皇后\FileName.cpp(6,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\bjhwl\source\repos\T631923 [IAMOI R4] 皇后\FileName.cpp(6,9): warning C4101: “i”: 未引用的局部变量
+  T631923 [IAMOI R4] 皇后.vcxproj -> C:\Users\bjhwl\source\repos\T631923 [IAMOI R4] 皇后\x64\Debug\T631923 [IAMOI R4] 皇后.exe

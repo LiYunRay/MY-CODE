@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "T629253 [IAMOI R4] 木桶效应", "T629253 [IAMOI R4] 木桶效应.vcxproj", "{B0A52E11-0A65-4537-96C2-860A4A005F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Debug|x64.ActiveCfg = Debug|x64
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Debug|x64.Build.0 = Debug|x64
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Debug|x86.Build.0 = Debug|Win32
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Release|x64.ActiveCfg = Release|x64
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Release|x64.Build.0 = Release|x64
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Release|x86.ActiveCfg = Release|Win32
+		{B0A52E11-0A65-4537-96C2-860A4A005F96}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AB5B85-24D5-4A5B-A10E-F53AC9EC9054}
+	EndGlobalSection
+EndGlobal

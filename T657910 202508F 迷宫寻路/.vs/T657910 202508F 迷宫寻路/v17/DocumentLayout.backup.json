@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D214C6-AE6D-49E3-B93A-4ED5D3463DAD}|T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF.vcxproj|C:\\Users\\bjhwl\\source\\repos\\T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5D214C6-AE6D-49E3-B93A-4ED5D3463DAD}|T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\T657910 202508F \u8FF7\u5BAB\u5BFB\u8DEF\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T11:40:04.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

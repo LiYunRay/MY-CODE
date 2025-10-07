@@ -1,0 +1,19 @@
+﻿生成开始于 21:18...
+1>------ 已启动生成: 项目: 6.16.15, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+1>    C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11):
+1>    此参数由转换说明符使用
+1>C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+1>    C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11):
+1>    占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+1>    C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11):
+1>    缺失的可变参数 2 为格式字符串“%c”所需
+1>    C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(6,11):
+1>    此参数用作缓冲区大小
+1>C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(9,10): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+1>C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(9,10): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "int *" 的参数 1 冲突
+1>6.16.15.vcxproj -> C:\Users\bjhwl\source\repos\6.16.15\x64\Debug\6.16.15.exe
+1>已完成生成项目“6.16.15.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 21:18 完成，耗时 00.607 秒 ==========

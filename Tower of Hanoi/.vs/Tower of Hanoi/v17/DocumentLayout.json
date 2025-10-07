@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\Tower of Hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{777B1B8C-8EA0-4091-97D3-63F19B57D824}|Tower of Hanoi.vcxproj|C:\\Users\\bjhwl\\source\\repos\\Tower of Hanoi\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{777B1B8C-8EA0-4091-97D3-63F19B57D824}|Tower of Hanoi.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\Tower of Hanoi\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\Tower of Hanoi\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-20T08:42:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿生成开始于 22:37...
+1>------ 已启动生成: 项目: 7.12.7, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\7.12.7\FileName.cpp(11,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>C:\Users\bjhwl\source\repos\7.12.7\FileName.cpp(14,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>C:\Users\bjhwl\source\repos\7.12.7\FileName.cpp(17,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>C:\Users\bjhwl\source\repos\7.12.7\FileName.cpp(20,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+1>C:\Users\bjhwl\source\repos\7.12.7\FileName.cpp(3,15): warning C4101: “ext”: 未引用的局部变量
+1>7.12.7.vcxproj -> C:\Users\bjhwl\source\repos\7.12.7\x64\Debug\7.12.7.exe
+1>已完成生成项目“7.12.7.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 22:37 完成，耗时 00.714 秒 ==========

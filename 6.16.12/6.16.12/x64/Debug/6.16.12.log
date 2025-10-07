@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\6.16.12\FileName.cpp(11,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\bjhwl\source\repos\6.16.12\FileName.cpp(14,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  6.16.12.vcxproj -> C:\Users\bjhwl\source\repos\6.16.12\x64\Debug\6.16.12.exe

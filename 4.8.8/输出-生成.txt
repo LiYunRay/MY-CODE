@@ -1,0 +1,8 @@
+﻿生成开始于 21:18...
+1>------ 已启动生成: 项目: 4.8.8, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\4.8.8\FileName.cpp(5,12): warning C4305: “=”: 从“double”到“float”截断
+1>4.8.8.vcxproj -> C:\Users\bjhwl\source\repos\4.8.8\x64\Debug\4.8.8.exe
+1>已完成生成项目“4.8.8.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 21:18 完成，耗时 00.665 秒 ==========

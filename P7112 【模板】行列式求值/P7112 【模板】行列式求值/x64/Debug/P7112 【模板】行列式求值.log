@@ -1,0 +1,14 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(14,12): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+      C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(14,12):
+      请考虑在格式字符串中使用“%lld”
+      C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(14,12):
+      请考虑在格式字符串中使用“%Id”
+      C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(14,12):
+      请考虑在格式字符串中使用“%I64d”
+  
+C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(61,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(74,16): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(58,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\FileName.cpp(85,10): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  P7112 【模板】行列式求值.vcxproj -> C:\Users\bjhwl\source\repos\P7112 【模板】行列式求值\x64\Debug\P7112 【模板】行列式求值.exe

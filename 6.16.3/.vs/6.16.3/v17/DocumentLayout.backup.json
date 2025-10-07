@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\6.16.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510230FF-F5F7-4144-B4F6-F5F355A66B4C}|6.16.3.vcxproj|C:\\Users\\bjhwl\\source\\repos\\6.16.3\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{510230FF-F5F7-4144-B4F6-F5F355A66B4C}|6.16.3.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\6.16.3\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\6.16.3\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-10T03:35:55.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
