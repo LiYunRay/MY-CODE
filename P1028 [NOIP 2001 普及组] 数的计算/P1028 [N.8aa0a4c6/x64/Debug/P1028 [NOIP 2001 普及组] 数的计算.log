@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\P1028 [NOIP 2001 普及组] 数的计算\FileName.cpp(5,19): warning C4101: “i”: 未引用的局部变量
+C:\Users\bjhwl\source\repos\P1028 [NOIP 2001 普及组] 数的计算\FileName.cpp(21,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  P1028 [NOIP 2001 普及组] 数的计算.vcxproj -> C:\Users\bjhwl\source\repos\P1028 [NOIP 2001 普及组] 数的计算\x64\Debug\P1028 [NOIP 2001 普及组] 数的计算.exe

@@ -1,0 +1,14 @@
+﻿生成开始于 22:26...
+1>------ 已启动生成: 项目: 9.11.2, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\9.11.2\FileName.cpp(6,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+1>    C:\Users\bjhwl\source\repos\9.11.2\FileName.cpp(6,10):
+1>    占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+1>    C:\Users\bjhwl\source\repos\9.11.2\FileName.cpp(6,10):
+1>    缺失的可变参数 2 为格式字符串“%c”所需
+1>    C:\Users\bjhwl\source\repos\9.11.2\FileName.cpp(6,10):
+1>    此参数用作缓冲区大小
+1>9.11.2.vcxproj -> C:\Users\bjhwl\source\repos\9.11.2\x64\Debug\9.11.2.exe
+1>已完成生成项目“9.11.2.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 22:26 完成，耗时 00.618 秒 ==========

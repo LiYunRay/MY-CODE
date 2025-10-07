@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(12,13): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(14,13): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(22,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(25,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(28,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\bjhwl\source\repos\7.12.8\FileName.cpp(31,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  7.12.8.vcxproj -> C:\Users\bjhwl\source\repos\7.12.8\x64\Debug\7.12.8.exe

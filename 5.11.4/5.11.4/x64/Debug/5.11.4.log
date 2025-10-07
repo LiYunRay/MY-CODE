@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\5.11.4\FileName.cpp(7,8): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\5.11.4\FileName.cpp(8,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  5.11.4.vcxproj -> C:\Users\bjhwl\source\repos\5.11.4\x64\Debug\5.11.4.exe

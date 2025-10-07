@@ -1,0 +1,9 @@
+﻿生成开始于 18:43...
+1>------ 已启动生成: 项目: Eight Queens, 配置: Debug x64 ------
+1>FileName.cpp
+1>C:\Users\bjhwl\source\repos\Eight Queens\FileName.cpp(6,6): warning C4101: “m”: 未引用的局部变量
+1>C:\Users\bjhwl\source\repos\Eight Queens\FileName.cpp(6,9): warning C4101: “n”: 未引用的局部变量
+1>Eight Queens.vcxproj -> C:\Users\bjhwl\source\repos\Eight Queens\x64\Debug\Eight Queens.exe
+1>已完成生成项目“Eight Queens.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========== 生成 于 18:43 完成，耗时 01.275 秒 ==========

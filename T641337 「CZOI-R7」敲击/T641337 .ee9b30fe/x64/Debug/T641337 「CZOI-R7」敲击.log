@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\T641337 「CZOI-R7」敲击\FileName.cpp(17,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“short *”
+      C:\Users\bjhwl\source\repos\T641337 「CZOI-R7」敲击\FileName.cpp(17,11):
+      请考虑在格式字符串中使用“%hd”
+  
+C:\Users\bjhwl\source\repos\T641337 「CZOI-R7」敲击\FileName.cpp(61,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\bjhwl\source\repos\T641337 「CZOI-R7」敲击\FileName.cpp(102,1): warning C4715: “f”: 不是所有的控件路径都返回值
+  T641337 「CZOI-R7」敲击.vcxproj -> C:\Users\bjhwl\source\repos\T641337 「CZOI-R7」敲击\x64\Debug\T641337 「CZOI-R7」敲击.exe

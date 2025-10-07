@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE8CB0-8AB2-4E28-8FCF-941B3CA434D9}|P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808.vcxproj|C:\\Users\\bjhwl\\source\\repos\\P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70EE8CB0-8AB2-4E28-8FCF-941B3CA434D9}|P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P1044 [NOIP 2003 \u666E\u53CA\u7EC4] \u6808\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T02:58:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿“11.13.5.exe”(Win32): 已加载“C:\Users\bjhwl\source\repos\11.13.5\x64\Debug\11.13.5.exe”。已加载符号。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。包含/排除设置已禁用符号加载。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。包含/排除设置已禁用符号加载。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。包含/排除设置已禁用符号加载。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。包含/排除设置已禁用符号加载。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。包含/排除设置已禁用符号加载。
+线程 61776 已退出，返回值为 0 (0x0)。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。包含/排除设置已禁用符号加载。
+“11.13.5.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。包含/排除设置已禁用符号加载。
+线程 47736 已退出，返回值为 0 (0x0)。
+线程 62032 已退出，返回值为 0 (0x0)。
+程序“[61592] 11.13.5.exe”已退出，返回值为 0 (0x0)。

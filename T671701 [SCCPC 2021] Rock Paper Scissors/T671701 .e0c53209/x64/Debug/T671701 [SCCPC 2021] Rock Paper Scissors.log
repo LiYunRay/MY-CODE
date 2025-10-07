@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\T671701 [SCCPC 2021] Rock Paper Scissors\FileName.cpp(40,10): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\T671701 [SCCPC 2021] Rock Paper Scissors\FileName.cpp(43,10): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  T671701 [SCCPC 2021] Rock Paper Scissors.vcxproj -> C:\Users\bjhwl\source\repos\T671701 [SCCPC 2021] Rock Paper Scissors\x64\Debug\T671701 [SCCPC 2021] Rock Paper Scissors.exe

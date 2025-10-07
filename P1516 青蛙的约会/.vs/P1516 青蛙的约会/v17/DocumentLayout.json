@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\P1516 \u9752\u86D9\u7684\u7EA6\u4F1A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4B76A0-7AF0-4985-8568-E18D24D94BB6}|P1516 \u9752\u86D9\u7684\u7EA6\u4F1A.vcxproj|C:\\Users\\bjhwl\\source\\repos\\P1516 \u9752\u86D9\u7684\u7EA6\u4F1A\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D4B76A0-7AF0-4985-8568-E18D24D94BB6}|P1516 \u9752\u86D9\u7684\u7EA6\u4F1A.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P1516 \u9752\u86D9\u7684\u7EA6\u4F1A\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P1516 \u9752\u86D9\u7684\u7EA6\u4F1A\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-21T08:47:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

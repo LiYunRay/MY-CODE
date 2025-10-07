@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\3.11.1\FileName.cpp(7,6): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\bjhwl\source\repos\3.11.1\FileName.cpp(11,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  3.11.1.vcxproj -> C:\Users\bjhwl\source\repos\3.11.1\x64\Debug\3.11.1.exe

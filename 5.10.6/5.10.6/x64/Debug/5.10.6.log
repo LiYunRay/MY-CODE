@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\5.10.6\FileName.cpp(5,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      C:\Users\bjhwl\source\repos\5.10.6\FileName.cpp(5,9):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      C:\Users\bjhwl\source\repos\5.10.6\FileName.cpp(5,9):
+      缺失的可变参数 1 为格式字符串“%s”所需
+  
+  5.10.6.vcxproj -> C:\Users\bjhwl\source\repos\5.10.6\x64\Debug\5.10.6.exe

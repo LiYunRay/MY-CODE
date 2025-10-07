@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(10,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+      C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(10,11):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(10,11):
+      缺失的可变参数 2 为格式字符串“%c”所需
+      C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(10,11):
+      此参数用作缓冲区大小
+  
+C:\Users\bjhwl\source\repos\6.16.15\FileName.cpp(16,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  6.16.15.vcxproj -> C:\Users\bjhwl\source\repos\6.16.15\x64\Debug\6.16.15.exe

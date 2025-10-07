@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bjhwl\\source\\code\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2233B9B3-16D8-4688-A2E5-BC33F4D4BE3E}|P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230.vcxproj|C:\\Users\\bjhwl\\source\\repos\\P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2233B9B3-16D8-4688-A2E5-BC33F4D4BE3E}|P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\code\\FileName.cpp",
+              "RelativeDocumentMoniker": "..\\..\\code\\FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\code\\FileName.cpp",
+              "RelativeToolTip": "..\\..\\code\\FileName.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T14:16:08.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P5707 \u3010\u6DF1\u57FA2.\u4F8B12\u3011\u4E0A\u5B66\u8FDF\u5230\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T13:55:33.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

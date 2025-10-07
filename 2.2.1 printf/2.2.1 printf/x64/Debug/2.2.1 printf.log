@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\bjhwl\source\repos\2.2.1 printf\test.cpp(6,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      C:\Users\bjhwl\source\repos\2.2.1 printf\test.cpp(6,9):
+      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+      C:\Users\bjhwl\source\repos\2.2.1 printf\test.cpp(6,9):
+      缺失的可变参数 2 为格式字符串“%d”所需
+  
+  2.2.1 printf.vcxproj -> C:\Users\bjhwl\source\repos\2.2.1 printf\x64\Debug\2.2.1 printf.exe
