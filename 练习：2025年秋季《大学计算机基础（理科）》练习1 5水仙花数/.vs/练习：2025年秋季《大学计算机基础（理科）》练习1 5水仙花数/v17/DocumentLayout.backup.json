@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F488B1B6-2278-417F-8977-839CF99A7710}|\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570.pyproj|C:\\Users\\bjhwl\\source\\repos\\\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570\\\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F488B1B6-2278-417F-8977-839CF99A7710}|\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570.pyproj|solutionrelative:\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570\\\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py",
+              "RelativeDocumentMoniker": "\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\\u7EC3\u4E60\uFF1A2025\u5E74\u79CB\u5B63\u300A\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840\uFF08\u7406\u79D1\uFF09\u300B\u7EC3\u4E601 5\u6C34\u4ED9\u82B1\u6570\\\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py",
+              "RelativeToolTip": "\u7EC3\u4E60_2025\u5E74\u79CB\u5B63_\u5927\u5B66\u8BA1\u7B97\u673A\u57FA\u7840_\u7406\u79D1__\u7EC3\u4E601_5\u6C34\u4ED9\u82B1\u6570.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-09T07:40:57.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

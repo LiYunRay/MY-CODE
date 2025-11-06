@@ -5,8 +5,14 @@ int main(void) {
 	char c;
 	scanf_s("%c", &c);
 	char arr[100];
-	fgets(arr, 100, stdin);
-	int fin = f(arr, c);
+	int i,n;
+	scanf_s("%d", &n);
+	for (i = 0; i < n; i++) {
+		fgets(arr, 100, stdin);
+		printf("%d", f(arr, c));
+
+	}
+
 	
 	return 0;
 }

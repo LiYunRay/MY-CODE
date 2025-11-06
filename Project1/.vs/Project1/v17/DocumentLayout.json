@@ -22,12 +22,17 @@
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\Project1\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\Project1\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\Project1\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-29T05:56:16.624Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
