@@ -1,3 +1,4 @@
 ﻿  FileName.cpp
-C:\Users\bjhwl\source\repos\P1080 [NOIP 2012 提高组] 国王游戏\FileName.cpp(31,15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P1080 [NOIP 2012 提高组] 国王游戏\FileName.cpp(15,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P1080 [NOIP 2012 提高组] 国王游戏\FileName.cpp(26,15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
   P1080 [NOIP 2012 提高组] 国王游戏.vcxproj -> C:\Users\bjhwl\source\repos\P1080 [NOIP 2012 提高组] 国王游戏\x64\Debug\P1080 [NOIP 2012 提高组] 国王游戏.exe
