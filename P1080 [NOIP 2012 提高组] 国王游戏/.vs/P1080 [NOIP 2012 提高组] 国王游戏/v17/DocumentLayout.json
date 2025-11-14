@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P1080 [NOIP 2012 \u63D0\u9AD8\u7EC4] \u56FD\u738B\u6E38\u620F\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P1080 [NOIP 2012 \u63D0\u9AD8\u7EC4] \u56FD\u738B\u6E38\u620F\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T02:54:37.995Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -35,19 +48,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P1080 [NOIP 2012 \u63D0\u9AD8\u7EC4] \u56FD\u738B\u6E38\u620F\\FileName.cpp",
-              "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P1080 [NOIP 2012 \u63D0\u9AD8\u7EC4] \u56FD\u738B\u6E38\u620F\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-06T02:54:37.995Z",
-              "EditorCaption": ""
             }
           ]
         }
