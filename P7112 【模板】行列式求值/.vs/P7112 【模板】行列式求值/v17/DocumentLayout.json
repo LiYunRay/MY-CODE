@@ -17,6 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -28,6 +29,11 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+>>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
@@ -35,16 +41,23 @@
               "RelativeDocumentMoniker": "..\\determinant\\FileName.cpp",
               "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\determinant\\FileName.cpp",
               "RelativeToolTip": "..\\determinant\\FileName.cpp",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+>>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-30T14:11:15.441Z",
               "EditorCaption": ""
             },
             {
+<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+=======
+>>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FileName.cpp",
@@ -54,7 +67,12 @@
               "RelativeToolTip": "FileName.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+<<<<<<< HEAD
               "WhenOpened": "2025-09-23T12:05:17.596Z"
+=======
+              "WhenOpened": "2025-09-23T12:05:17.596Z",
+              "EditorCaption": ""
+>>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
             },
             {
               "$type": "Bookmark",

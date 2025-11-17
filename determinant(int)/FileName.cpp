@@ -1,13 +1,28 @@
 #include<stdlib.h>
 #include<stdio.h>
-void f(int, long long**);
 int main(void) {
 	int n;
 	scanf_s("%d", &n);
+	if (n <= 0) {
+		fprintf(stderr, "n 必须为正整数\n");
+		return 1;
+	}
 	long long** a = (long long**)malloc(n * sizeof(long long*));
+	if (a == NULL) {
+		fprintf(stderr, "内存分配失败\n");
+		return 1;
+	}
 	int i, j, k;
 	for (i = 0; i < n; i++) {
 		a[i] = (long long*)malloc(n * sizeof(long long));
+		if (a[i] == NULL) {
+			for (int m = 0; m < i; m++) {
+				free(a[m]);
+			}
+			free(a);
+			fprintf(stderr, "内存分配失败\n");
+			return 1;
+		}
 	}
 	for (i = 0; i < n; i++) {
 		for (j = 0; j < n; j++) {
@@ -23,7 +38,7 @@ int main(void) {
 		}
 	}
 	long long fin = a[n - 1][n - 1];
-	printf("%d", fin);
+	printf("%lld", fin);
 	for (i = 0; i < n; i++) {
 		free(a[i]);
 	}

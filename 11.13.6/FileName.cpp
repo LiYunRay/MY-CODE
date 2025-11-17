@@ -5,6 +5,7 @@ int main(void) {
 	char c;
 	scanf_s("%c", &c);
 	char arr[100];
+<<<<<<< HEAD
 	int i,n;
 	scanf_s("%d", &n);
 	for (i = 0; i < n; i++) {
@@ -13,6 +14,10 @@ int main(void) {
 
 	}
 
+=======
+	fgets(arr, 100, stdin);
+	int fin = f(arr, c);
+>>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
 	
 	return 0;
 }
