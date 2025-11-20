@@ -1,2 +1,4 @@
 ﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\P1045 [NOIP 2003 普及组] 麦森数\FileName.cpp(14,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P1045 [NOIP 2003 普及组] 麦森数\FileName.cpp(10,8): warning C4101: “j”: 未引用的局部变量
   P1045 [NOIP 2003 普及组] 麦森数.vcxproj -> C:\Users\bjhwl\source\repos\P1045 [NOIP 2003 普及组] 麦森数\x64\Debug\P1045 [NOIP 2003 普及组] 麦森数.exe

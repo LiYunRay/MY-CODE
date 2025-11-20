@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\P5705 【深基2.例7】数字反转\FileName.cpp(7,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\P5705 【深基2.例7】数字反转\FileName.cpp(12,8): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  P5705 【深基2.例7】数字反转.vcxproj -> C:\Users\bjhwl\source\repos\P5705 【深基2.例7】数字反转\x64\Debug\P5705 【深基2.例7】数字反转.exe
