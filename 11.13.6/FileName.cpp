@@ -1,35 +1,27 @@
 #include<stdio.h>
 #include<string.h>
-int f(char*, char);
+int is_within(char*, char);
 int main(void) {
-	char c;
-	scanf_s("%c", &c);
 	char arr[100];
-<<<<<<< HEAD
-	int i,n;
-	scanf_s("%d", &n);
-	for (i = 0; i < n; i++) {
-		fgets(arr, 100, stdin);
-		printf("%d", f(arr, c));
-
-	}
-
-=======
-	fgets(arr, 100, stdin);
-	int fin = f(arr, c);
->>>>>>> 3886f91172feb4c97da2dab30a2cdde14b96c08a
-	
-	return 0;
-}
-int f(char* arr, char a) {
+	char brr[100];
+	gets_s(brr, 100);
+	gets_s(arr, 100);
 	int i;
-	for (i = 0; i < 100; i++) {
-		if (arr[i] == a) {
+	for (i = 0; i < strlen(brr); i++) {
+		printf("%c %d\n",brr[i],is_within(arr, brr[i]));
+	}
+	return 0;
+	
+}
+int is_within(char* arr, char c) {
+	int len = strlen(arr);
+	int i;
+	int fin=0;
+	for (i = 0; i < len; i++) {
+		if (arr[i] == c) {
+			fin = 1;
 			break;
 		}
-		if (arr[i] == 0) {
-			return 0;
-		}
 	}
-	return 1;
+	return fin;
 }

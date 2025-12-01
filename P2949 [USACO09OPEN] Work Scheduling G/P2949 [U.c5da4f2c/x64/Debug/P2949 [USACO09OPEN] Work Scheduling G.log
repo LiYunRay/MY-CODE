@@ -1,0 +1,103 @@
+﻿  FileName.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60): error C2676: 二进制“<”:“const _Ty”不定义该运算符或到预定义运算符可接收的类型的转换
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60): error C2676:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60): error C2676:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60): error C2676:             _Ty=Node
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60): error C2676:         ]
+  (编译源文件“FileName.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\queue(192,17):
+      可能是“bool std::operator <(const std::queue<_Ty,_Container> &,const std::queue<_Ty,_Container> &)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::queue<_Ty,_Container> &,const std::queue<_Ty,_Container> &)”: 无法从“const _Ty”推导出“const std::queue<_Ty,_Container> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(2356,30):
+      或    “bool std::operator <(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::vector<_Ty,_Alloc> &,const std::vector<_Ty,_Alloc> &)”: 无法从“const _Ty”推导出“const std::vector<_Ty,_Alloc> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\deque(1811,17):
+      或    “bool std::operator <(const std::deque<_Ty,_Alloc> &,const std::deque<_Ty,_Alloc> &)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::deque<_Ty,_Alloc> &,const std::deque<_Ty,_Alloc> &)”: 无法从“const _Ty”推导出“const std::deque<_Ty,_Alloc> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(4478,30):
+      或    “bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::move_iterator<_Iter> &,const std::move_iterator<_Iter2> &) noexcept(<expr>)”: 无法从“const _Ty”推导出“const std::move_iterator<_Iter> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xutility(1920,30):
+      或    “bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::reverse_iterator<_BidIt> &,const std::reverse_iterator<_BidIt2> &) noexcept(<expr>)”: 无法从“const _Ty”推导出“const std::reverse_iterator<_BidIt> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(524,27):
+      或    “bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)”
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,54):
+          “bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Uty1,_Uty2> &)”: 无法从“const _Ty”推导出“const std::pair<_Ty1,_Ty2> &”的 模板 参数
+          with
+          [
+              _Ty=Node
+          ]
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\type_traits(2379,60):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\bjhwl\source\repos\P2949 [USACO09OPEN] Work Scheduling G\FileName.cpp(11,22):
+          查看对正在编译的 类 模板 实例化“std::priority_queue<Node,std::vector<Node,std::allocator<Node>>,std::less<_Ty>>”的引用
+          with
+          [
+              _Ty=Node
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\queue(382,10):
+          在编译 类 模板 成员函数“void std::priority_queue<Node,std::vector<Node,std::allocator<Node>>,std::less<_Ty>>::push(const Node &)”时
+          with
+          [
+              _Ty=Node
+          ]
+              C:\Users\bjhwl\source\repos\P2949 [USACO09OPEN] Work Scheduling G\FileName.cpp(29,11):
+              请参阅 "main" 中对 "std::priority_queue<Node,std::vector<Node,std::allocator<Node>>,std::less<_Ty>>::push" 的第一个引用
+          with
+          [
+              _Ty=Node
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\queue(384,14):
+          查看对正在编译的函数 模板 实例化“void std::push_heap<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Fn>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=Node,
+              _Fn=std::less<Node>,
+              _RanIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<Node>>>,
+              _Pr=std::less<Node>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_heap_algorithms.hpp(46,14):
+          查看对正在编译的函数 模板 实例化“void std::_Push_heap_by_index<Node*,Node,_Fn>(_RanIt,__int64,__int64,_Ty &&,_Pr)”的引用
+          with
+          [
+              _Fn=std::less<Node>,
+              _RanIt=Node *,
+              _Ty=Node,
+              _Pr=std::less<Node>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\__msvc_heap_algorithms.hpp(27,25):
+          查看对正在编译的函数 模板 实例化“bool std::_Debug_lt_pred<_Pr&,Node&,_Ty&>(std::less<_Ty>&,_Ty1,_Ty2) noexcept(<expr>)”的引用
+          with
+          [
+              _Pr=std::less<Node>,
+              _Ty=Node,
+              _Ty1=Node &,
+              _Ty2=Node &
+          ]
+  

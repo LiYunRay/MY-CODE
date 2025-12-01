@@ -3,12 +3,13 @@
 int f(char*, char);
 int main(void) {
 	char c;
-	scanf_s("%c", &c);
+	scanf_s("%c", &c,1);
+	getchar();
 	char arr[100];
 	fgets(arr, 100, stdin);
 	int fin = f(arr, c);
 	if (fin != -1) {
-		printf("%d\n%p", fin, &arr[fin - 1]);
+		printf("%d\n%p", fin+1, &arr[fin - 1]);
 	}
 	else printf("NO");
 	return 0;

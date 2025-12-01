@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\11.13.9\FileName.cpp(6,8): warning C4101: “p”: 未引用的局部变量
+C:\Users\bjhwl\source\repos\11.13.9\FileName.cpp(16,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  11.13.9.vcxproj -> C:\Users\bjhwl\source\repos\11.13.9\x64\Debug\11.13.9.exe

@@ -1,12 +1,12 @@
 #include<stdio.h>
-int min(long long, long long);
+long long min(long long, long long);
 void f(long long*, long long*);
 int main(void) {
 	int T, q;
 	long long a1, b1, c1;
 	long long a2, b2, c2;
 	long long num = 0;
-	int x, y, z;
+	long long x, y, z;
 	scanf_s("%d", &T);
 	for (q = 0; q < T; q++) {
 		num = 0;
@@ -35,7 +35,7 @@ int main(void) {
 	}
 	return 0;
 }
-int min(long long a, long long b) {
+long long min(long long a, long long b) {
 	if (a >= b) {
 		return b;
 	}

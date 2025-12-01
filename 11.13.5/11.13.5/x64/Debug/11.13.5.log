@@ -1,10 +1,2 @@
 ﻿  FileName.cpp
-C:\Users\bjhwl\source\repos\11.13.5\FileName.cpp(6,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
-      C:\Users\bjhwl\source\repos\11.13.5\FileName.cpp(6,10):
-      占位符和其参数预计 2 可变参数，但提供的却是 1 参数
-      C:\Users\bjhwl\source\repos\11.13.5\FileName.cpp(6,10):
-      缺失的可变参数 2 为格式字符串“%c”所需
-      C:\Users\bjhwl\source\repos\11.13.5\FileName.cpp(6,10):
-      此参数用作缓冲区大小
-  
   11.13.5.vcxproj -> C:\Users\bjhwl\source\repos\11.13.5\x64\Debug\11.13.5.exe

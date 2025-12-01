@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(12,10): warning C4244: “初始化”: 从“double”转换到“ull”，可能丢失数据
+C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(14,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(20,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(45,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+      C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(45,9):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\FileName.cpp(33,8): warning C4101: “j”: 未引用的局部变量
+  U461211 字符串 Hash（数据加强）.vcxproj -> C:\Users\bjhwl\source\repos\U461211 字符串 Hash（数据加强）\x64\Debug\U461211 字符串 Hash（数据加强）.exe
