@@ -25,21 +25,6 @@ void dfs(int t) {
 	}
 	
 }
-void ex(int i, int j) {
-	edge e;
-	e = arr[i];
-	arr[i] = arr[j];
-	arr[j] = e;
-}
-void sort(void) {
-	int i, j;
-	for (i = 1; i <= m; i++) {
-		for (j = 1; j < m; j++) {
-			if (arr[j].u > arr[j + 1].u) ex(j, j + 1);
-			if (arr[j].u == arr[j + 1].u && arr[j].v > arr[j + 1].v) ex(j, j + 1);
-		}
-	}
-}
 
 void bfs(int t) {
 	per.push(t);

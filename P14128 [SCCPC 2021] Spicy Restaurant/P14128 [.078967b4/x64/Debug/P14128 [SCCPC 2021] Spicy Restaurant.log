@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\bjhwl\source\repos\P14128 [SCCPC 2021] Spicy Restaurant\FileName.cpp(25,8): warning C4101: “x”: 未引用的局部变量
+  P14128 [SCCPC 2021] Spicy Restaurant.vcxproj -> C:\Users\bjhwl\source\repos\P14128 [SCCPC 2021] Spicy Restaurant\x64\Debug\P14128 [SCCPC 2021] Spicy Restaurant.exe
