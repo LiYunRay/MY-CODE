@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439D5378-CD56-4271-815C-FF74F4266D4B}|P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3.vcxproj|C:\\Users\\bjhwl\\source\\repos\\P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{439D5378-CD56-4271-815C-FF74F4266D4B}|P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P5733 \u3010\u6DF1\u57FA6.\u4F8B1\u3011\u81EA\u52A8\u4FEE\u6B63 \u9898\u89E3\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T12:21:22.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

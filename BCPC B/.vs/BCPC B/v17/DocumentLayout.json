@@ -45,9 +45,9 @@
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\BCPC B\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\BCPC B\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\BCPC B\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-05T14:21:17.924Z",
               "EditorCaption": ""
@@ -62,8 +62,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
               "ViewState": "AgIAAIEHAAAAAAAAAAAgwIkHAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-05T14:43:15.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T14:43:15.159Z"
             }
           ]
         }

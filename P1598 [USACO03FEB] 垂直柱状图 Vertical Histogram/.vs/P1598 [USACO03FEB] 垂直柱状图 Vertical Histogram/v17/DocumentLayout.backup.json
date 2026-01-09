@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjhwl\\source\\repos\\P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBB0E61-02B8-4D0E-A2D7-B14601988076}|P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram.vcxproj|C:\\Users\\bjhwl\\source\\repos\\P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBBB0E61-02B8-4D0E-A2D7-B14601988076}|P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\bjhwl\\source\\repos\\P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\bjhwl\\source\\repos\\P1598 [USACO03FEB] \u5782\u76F4\u67F1\u72B6\u56FE Vertical Histogram\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-29T13:39:13.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
